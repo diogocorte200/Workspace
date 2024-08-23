@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Stefanini.API.props" />
+</Project>

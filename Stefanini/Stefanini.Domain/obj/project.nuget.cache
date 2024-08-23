@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XO11NOhb+3Ix8jbnUiFkYofolctMTKWKNB/HvG5sSbDaMDh1AFzf/FGLeoCcQ7cIvpIbXrO3OYvvdt132Yf7cA==",
+  "success": true,
+  "projectFilePath": "C:\\ste\\Workspace\\Stefanini\\Stefanini.Domain\\Stefanini.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diogo\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Diogo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Diogo\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Diogo\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Diogo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
